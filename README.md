@@ -15,3 +15,9 @@ pip install stockapi
 ```py
 import stockpy
 ```
+
+# Short Documentation
+## class StockAPI(key: str)
+## StockAPI.isAlive()
+## StockAPI.search(query: str)
+## StockAPI.price(symbol: str)
