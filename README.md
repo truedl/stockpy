@@ -6,3 +6,12 @@ The StockAPI is **minimal and free** "finance" api. Right now it can only search
 
 # 🔑 Get API Key 🔑
 Go to https://tomdanilov.pythonanywhere.com/ and just click "GET YOUR API KEY", you don't need to fill nothing :).
+
+# 🚀 Install and import 🚀
+```batch
+pip install stockapi
+```
+
+```py
+import stockpy
+```
